@@ -54,7 +54,7 @@ export default function Register() {
                     </div>
 
                     <div className="grid gap-2">
-                        <Label htmlFor="email">Email address</Label>
+                        <Label htmlFor="email">email jhon monsalve</Label>
                         <Input
                             id="email"
                             type="email"
@@ -70,7 +70,7 @@ export default function Register() {
                     </div>
 
                     <div className="grid gap-2">
-                        <Label htmlFor="password">Password</Label>
+                        <Label htmlFor="password">contraseña</Label>
                         <Input
                             id="password"
                             type="password"
